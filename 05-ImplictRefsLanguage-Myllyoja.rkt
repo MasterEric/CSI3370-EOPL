@@ -2,7 +2,7 @@
 ; Requiring eopl is required for define-datatype to function.
 (require (lib "eopl.ss" "eopl"))
 
-; This implementation of EXPLICIT-REFS was completed through a combination of
+; This implementation of IMPLICIT-REFS was completed through a combination of
 ; the Essentials of Programming Languages textbook and the previous EXPLICIT-REFS language,
 ; which was completed in part with code from Dean DeHart:
 ; https://github.com/Deanout/letlang/blob/master/LetLang.rkt
